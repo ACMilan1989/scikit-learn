@@ -28,7 +28,7 @@ class Perceptron(BaseSGDClassifier):
         It only impacts the behavior in the ``fit`` method, and not the
         `partial_fit`.
         Defaults to 5. Defaults to 1000 from 0.21, or if tol is not None.
-
+等方法是的会计法
         .. versionadded:: 0.19
 
     tol : float or None, optional
